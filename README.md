@@ -24,6 +24,12 @@ Examples:
 
 - .Net Core 3.0
 
+## ReleaseNote
+
+### Ver 1.0.0
+
+- The first release.
+
 ## License
 
  MIT License
