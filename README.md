@@ -20,11 +20,11 @@ Examples:
     removecomment.exe manifest.xml manifest.public.xml
 ```
 
-## Programming
+## Programming Information
 
 - .Net Core 3.0
 
-## ReleaseNote
+## Release Notes
 
 ### Ver 1.0.0
 
