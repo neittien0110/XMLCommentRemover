@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XMLCommentRemover": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\workspaces\\OfficeAddin\\Mycel\\releases\\manifest.release.xml"
+    }
+  }
+}
